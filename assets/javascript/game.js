@@ -33,7 +33,7 @@ $(document).ready(function() {
 
         if (restart) {
             alert("game has restarted and new word has been chosen");
-            
+            wordLetters = [];
             wordChoice = wordList[Math.floor(Math.random() * wordList.length)];
 
             for (var i =0; i < wordChoice.length; i++) {
@@ -42,6 +42,7 @@ $(document).ready(function() {
                 guessedLetters[i] = '_'
                  console.log(guessedLetters)
             }
+            
             restart = false 
             guesses = 9
         }
