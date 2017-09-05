@@ -1,15 +1,8 @@
 body {
-	background-color:black;
+	background-image:url("../images/wallpaper1.jpg");
+	 background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: auto;
 }
 
-
-
-h1 {
-   font-size:25px;
-   color:white;
-}
-
-p {
-	font-size:14px;
-	color:white;
-}
