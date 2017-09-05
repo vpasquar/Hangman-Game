@@ -1,8 +1,9 @@
 body {
-	background-image:url("../images/wallpaper1.jpg");
-	 background-position: center;
+	/*background-image:url("../images/wallpaper1.jpg");
+	background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    overflow: auto;
+    overflow: auto;*/
+    background-color:black;
 }
 
