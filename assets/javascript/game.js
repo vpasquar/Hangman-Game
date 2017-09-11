@@ -2,7 +2,8 @@
 // ==================================================================================================
 
 // Array of Word Options (all lowercase)
-var wordsList = ["trump", "obama", "bush", "clinton", "reagan"];
+var wordsList = ["chicagocubs", "goldenstatewarriors", "newyorkgiants", 
+"newyorkyankees", "newenglandpatriots"];
 // Solution will be held here.
 var chosenWord = "";
 // This will break the solution into individual letters to be stored in array.
